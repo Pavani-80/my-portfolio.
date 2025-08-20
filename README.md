@@ -6,9 +6,9 @@ It showcases my **skills, projects, internships, and achievements**, and is depl
 ---
 
 ## 🚀 Live Demo  
-👉 [View Portfolio](https://pavani-portfolio.netlify.app)  
+🚀 Live Demo: [https://pavanichepalle-portfolio.netlify.app](https://pavanichepalle-portfolio.netlify.app)
 
----
+--
 
 ## 🖥️ Features  
 - Professional landing page with introduction  
